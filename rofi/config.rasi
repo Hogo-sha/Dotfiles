@@ -1,0 +1,11 @@
+@theme "/home/hakai/.config/rofi/theme.rasi"
+
+configuration{
+display-drun: "Applications:";
+display-window: "Windows:";
+drun-display-format: "{name}";
+font: "Mononoki Nerd Font Regular 10";
+modi: "window,run,drun,emoji,calc";
+show-icons: true;
+icon-theme: "Buuf For Many Desktops";
+}
